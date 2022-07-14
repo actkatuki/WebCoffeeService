@@ -1,0 +1,117 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "モーニングにトーストとコーヒー。トーストにのせるとしたら？",
+      "answers": [
+        "フルーツジャム",
+        "メープルシロップ",
+        "ビーナッツバター",
+        "チーズ"
+      ],
+      "imageUrl": "https://postcoffee.co/_next/static/media/coffee6.36ce394b.jpg"
+    },
+    {
+      "id": 2,
+      "question": "ランチ後のデザート。 4つから選ぶとしたら？",
+      "answers": [
+        "シャーペット",
+        "カスタードシュークリーム",
+        "チョコレートドーナツ",
+        "どら焼き"
+      ],
+      "imageUrl": "https://postcoffee.co/_next/static/media/coffee7.524aa06d.jpg"
+    },
+    {
+      "id": 3,
+      "question": "友達とファミレスに来ました。 ドリンクバーで何を飲みますか？",
+      "answers": [
+        "オレンジジュース",
+        "ジンジャーエール",
+        "ウーロン茶",
+        "ココア"
+      ],
+      "imageUrl": "https://postcoffee.co/_next/static/media/coffee8.42fe9201.jpg"
+    },
+    {
+      "id": 4,
+      "question": "好きなフルーツは？",
+      "answers": ["グレープフルーツ", "りんご", "メロン", "マンゴー"],
+      "imageUrl": "https://postcoffee.co/_next/static/media/coffee9.1331b9d4.jpg"
+    },
+    {
+      "id": 5,
+      "question": "カフェで飲むならどのコーヒー？",
+      "answers": [
+        "アメリカーノ",
+        "ドリップコーヒー",
+        "カフェラテ",
+        "エスプレッソ"
+      ],
+      "imageUrl": "https://postcoffee.co/_next/static/media/coffee10.6d0e1709.jpg"
+    },
+    {
+      "id": 6,
+      "question": "好きなチョコレートの種類は？",
+      "answers": [
+        "オランジェット",
+        "ホワイトチョコ",
+        "ミルクチョコ",
+        "ビターチョコ"
+      ],
+      "imageUrl": "https://postcoffee.co/_next/static/media/coffee11.c7597649.jpg"
+    },
+    {
+      "id": 7,
+      "question": "冬の寒い日に飲みたいホットドリンクは？",
+      "answers": [
+        "ホットレモネード",
+        "コーンポタージュ",
+        "チャイティー",
+        "ホットワイン"
+      ],
+      "imageUrl": "https://postcoffee.co/_next/static/media/coffee12.fa6b5d4a.jpg"
+    },
+    {
+      "id": 8,
+      "question": "大切な日のディナー、何を食べる？",
+      "answers": ["お寿司", "マルゲリータ", "クリームパスタ", "ビーフシチュー"],
+      "imageUrl": "https://postcoffee.co/_next/static/media/coffee13.21ed2d53.jpg"
+    },
+    {
+      "id": 9,
+      "question": "スペシャルティコーヒーって知ってる？",
+      "answers": [
+        "知ってて好んで飲んでいる",
+        "知ってて飲んだことがある",
+        "知ってて飲んだことがない",
+        "知らない"
+      ],
+      "imageUrl": "https://postcoffee.co/_next/static/media/coffee4.0527d698.jpg"
+    },
+    {
+      "id": 10,
+      "question": "あなたが好む焙煎度は？",
+      "answers": ["浅煎り", "中煎り", "中深煎り", "深煎り"],
+      "imageUrl": "https://postcoffee.co/_next/static/media/coffee14.d8d15b3a.jpg"
+    },
+    {
+      "id": 11,
+      "question": "お気に入りのフレーバーは？",
+      "answers": ["シトラス", "フルーティ", "ナッティ", "ロースティ"],
+      "imageUrl": "https://postcoffee.co/_next/static/media/coffee18.3172c802.jpg"
+    },
+    {
+      "id": 12,
+      "question": "この中で好きなコーヒー生産地は？",
+      "answers": ["アフリカ", "中米", "南米", "アジア"],
+      "imageUrl": "https://postcoffee.co/_next/static/media/coffee15.e0441a91.jpg"
+    },
+    {
+      "id": 13,
+      "question": "あなたが求めるコーヒーの味わいは？",
+      "answers": ["あっさり", "まろやか", "しっかり", "こってり"],
+      "imageUrl": "https://postcoffee.co/_next/static/media/coffee19.1f0b5de3.jpg"
+    }
+  ]
+}
